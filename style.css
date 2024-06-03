@@ -1,0 +1,12 @@
+p {
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    margin: 30px;
+    border-style: dashed;
+    border-color: red;
+    background-color: green;
+}

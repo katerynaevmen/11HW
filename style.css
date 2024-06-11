@@ -5,9 +5,10 @@
     padding-right: 10px;
     padding-bottom: 20px;
     padding-left: 15px;
-    margin: 30px;
+    margin-bottom: 30px;
     border-style: dashed;
     border-color: red;
     border-radius: 2px;
     background-color: green;
+    box-sizing: content-box;
 }

@@ -8,5 +8,6 @@
     margin: 30px;
     border-style: dashed;
     border-color: red;
+    border-radius: 2px;
     background-color: green;
 }
